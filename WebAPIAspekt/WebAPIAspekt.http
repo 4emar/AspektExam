@@ -1,0 +1,6 @@
+@WebAPIAspekt_HostAddress = http://localhost:5049
+
+GET {{WebAPIAspekt_HostAddress}}/aspektexam/
+Accept: application/json
+
+###
